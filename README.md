@@ -1,6 +1,6 @@
 
 # Tehnologii Web – Proiect
-## GRozavu Catalina, Hutan Mario, Grindei Denisa
+## Grozavu Catalina, Hutan Mario, Grindei Denisa
 
 # Descriere
 
