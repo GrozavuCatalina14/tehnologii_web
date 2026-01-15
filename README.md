@@ -17,3 +17,11 @@ Aplicația permite atribuirea de task-uri pentru fiecare angajat ;i adaugarea un
 cd backend
 npm install
 node server.js
+
+# Frontend
+cd frontend
+npm install
+npm start
+
+
+http://localhost:5000
